@@ -1,4 +1,4 @@
-# alx-low_level_programming
+# Holberton Program
 
 Here, you'll find a collection of projects, Each project is organized into its own directory. Feel free to explore and learn from these projects.
 
